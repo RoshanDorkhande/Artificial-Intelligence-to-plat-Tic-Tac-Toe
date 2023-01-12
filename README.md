@@ -5,9 +5,16 @@ The Ai uses minimax algorithm which calculates minimum loss using an evaluation 
 
 TO run this on your computer you just have to install Pygame using pip install pygame
 
+
 There are 3 MODES in the game
+
+
 The default mode is kept as the player against ai
+
+
 you can change it to pvp or random ai
+
+
 
 To play against random ai you have to press 0
 To play against  ai you have to press 1
