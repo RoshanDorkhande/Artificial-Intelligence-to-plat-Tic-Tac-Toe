@@ -4,6 +4,7 @@ The Ai uses minimax algorithm which calculates minimum loss using an evaluation 
 
 
 TO run this on your computer you just have to install Pygame using pip install pygame
+and run the main.py file
 
 
 There are 3 MODES in the game
